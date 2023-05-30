@@ -1,0 +1,8 @@
+ oppgave 1
+ - tegningene mine stemte
+
+ oppgave 2
+ - prøver å nå minne som er utilgjengelig da line er peker til null.
+
+ oppgave 3
+ - er ikke satt noe slutt så løkken kommer til å fortsette å lete.

@@ -1,6 +1,6 @@
 file(REMOVE_RECURSE
-  "CMakeFiles/oving2.dir/main.cpp.obj"
-  "CMakeFiles/oving2.dir/main.cpp.obj.d"
+  "CMakeFiles/oving2.dir/oppg1.cpp.obj"
+  "CMakeFiles/oving2.dir/oppg1.cpp.obj.d"
   "liboving2.dll.a"
   "oving2.exe"
   "oving2.exe.manifest"

@@ -1,0 +1,69 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"jsonFile" : "directory-.-Debug-d0094a50bb2071803777.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.23"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "oving5",
+					"targetIndexes" : 
+					[
+						0,
+						1
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "oving5::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-oving5-Debug-7606c4f90559d6a02eb7.json",
+					"name" : "oving5",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "oving5b::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-oving5b-Debug-77f627c46c25dd4ab8be.json",
+					"name" : "oving5b",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "C:/Users/hassa/NTNU.Data/3aar/1.sem/cpp/ovinger/oving5/cmake-build-debug",
+		"source" : "C:/Users/hassa/NTNU.Data/3aar/1.sem/cpp/ovinger/oving5"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 4
+	}
+}

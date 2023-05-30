@@ -1,0 +1,3 @@
+C:\Users\hassa\AppData\Local\JetBrains\Toolbox\apps\CLion\ch-0\222.3739.54\bin\cmake\win\bin\cmake.exe -E rm -f CMakeFiles\oving8a.dir/objects.a
+C:\MinGW\bin\ar.exe qc CMakeFiles\oving8a.dir/objects.a @CMakeFiles\oving8a.dir\objects1.rsp
+C:\MinGW\bin\g++.exe -g -Wl,--whole-archive CMakeFiles\oving8a.dir/objects.a -Wl,--no-whole-archive -o oving8a.exe -Wl,--out-implib,liboving8a.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\oving8a.dir\linklibs.rsp

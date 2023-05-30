@@ -1,0 +1,6 @@
+C:/Users/hassa/NTNU.Data/3aar/1.sem/cpp/ovinger/oving3/cmake-build-debug/CMakeFiles/oving3.dir
+C:/Users/hassa/NTNU.Data/3aar/1.sem/cpp/ovinger/oving3/cmake-build-debug/CMakeFiles/oving.dir
+C:/Users/hassa/NTNU.Data/3aar/1.sem/cpp/ovinger/oving3/cmake-build-debug/CMakeFiles/ovin.dir
+C:/Users/hassa/NTNU.Data/3aar/1.sem/cpp/ovinger/oving3/cmake-build-debug/CMakeFiles/ovi.dir
+C:/Users/hassa/NTNU.Data/3aar/1.sem/cpp/ovinger/oving3/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/hassa/NTNU.Data/3aar/1.sem/cpp/ovinger/oving3/cmake-build-debug/CMakeFiles/rebuild_cache.dir

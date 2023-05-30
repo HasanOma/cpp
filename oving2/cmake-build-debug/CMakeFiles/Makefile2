@@ -63,6 +63,9 @@ CMAKE_BINARY_DIR = C:\Users\hassa\NTNU.Data\3aar\1.sem\cpp\ovinger\oving2\cmake-
 
 # The main recursive "all" target.
 all: CMakeFiles/oving2.dir/all
+all: CMakeFiles/ovin.dir/all
+all: CMakeFiles/ovi.dir/all
+all: CMakeFiles/ov.dir/all
 .PHONY : all
 
 # The main recursive "preinstall" target.
@@ -71,6 +74,9 @@ preinstall:
 
 # The main recursive "clean" target.
 clean: CMakeFiles/oving2.dir/clean
+clean: CMakeFiles/ovin.dir/clean
+clean: CMakeFiles/ovi.dir/clean
+clean: CMakeFiles/ov.dir/clean
 .PHONY : clean
 
 #=============================================================================
@@ -80,7 +86,7 @@ clean: CMakeFiles/oving2.dir/clean
 CMakeFiles/oving2.dir/all:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\oving2.dir\build.make CMakeFiles/oving2.dir/depend
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\oving2.dir\build.make CMakeFiles/oving2.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=C:\Users\hassa\NTNU.Data\3aar\1.sem\cpp\ovinger\oving2\cmake-build-debug\CMakeFiles --progress-num=1,2 "Built target oving2"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=C:\Users\hassa\NTNU.Data\3aar\1.sem\cpp\ovinger\oving2\cmake-build-debug\CMakeFiles --progress-num=7,8 "Built target oving2"
 .PHONY : CMakeFiles/oving2.dir/all
 
 # Build rule for subdir invocation for target.
@@ -98,6 +104,84 @@ oving2: CMakeFiles/oving2.dir/rule
 CMakeFiles/oving2.dir/clean:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\oving2.dir\build.make CMakeFiles/oving2.dir/clean
 .PHONY : CMakeFiles/oving2.dir/clean
+
+#=============================================================================
+# Target rules for target CMakeFiles/ovin.dir
+
+# All Build rule for target.
+CMakeFiles/ovin.dir/all:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\ovin.dir\build.make CMakeFiles/ovin.dir/depend
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\ovin.dir\build.make CMakeFiles/ovin.dir/build
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=C:\Users\hassa\NTNU.Data\3aar\1.sem\cpp\ovinger\oving2\cmake-build-debug\CMakeFiles --progress-num=5,6 "Built target ovin"
+.PHONY : CMakeFiles/ovin.dir/all
+
+# Build rule for subdir invocation for target.
+CMakeFiles/ovin.dir/rule: cmake_check_build_system
+	$(CMAKE_COMMAND) -E cmake_progress_start C:\Users\hassa\NTNU.Data\3aar\1.sem\cpp\ovinger\oving2\cmake-build-debug\CMakeFiles 2
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\Makefile2 CMakeFiles/ovin.dir/all
+	$(CMAKE_COMMAND) -E cmake_progress_start C:\Users\hassa\NTNU.Data\3aar\1.sem\cpp\ovinger\oving2\cmake-build-debug\CMakeFiles 0
+.PHONY : CMakeFiles/ovin.dir/rule
+
+# Convenience name for target.
+ovin: CMakeFiles/ovin.dir/rule
+.PHONY : ovin
+
+# clean rule for target.
+CMakeFiles/ovin.dir/clean:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\ovin.dir\build.make CMakeFiles/ovin.dir/clean
+.PHONY : CMakeFiles/ovin.dir/clean
+
+#=============================================================================
+# Target rules for target CMakeFiles/ovi.dir
+
+# All Build rule for target.
+CMakeFiles/ovi.dir/all:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\ovi.dir\build.make CMakeFiles/ovi.dir/depend
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\ovi.dir\build.make CMakeFiles/ovi.dir/build
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=C:\Users\hassa\NTNU.Data\3aar\1.sem\cpp\ovinger\oving2\cmake-build-debug\CMakeFiles --progress-num=3,4 "Built target ovi"
+.PHONY : CMakeFiles/ovi.dir/all
+
+# Build rule for subdir invocation for target.
+CMakeFiles/ovi.dir/rule: cmake_check_build_system
+	$(CMAKE_COMMAND) -E cmake_progress_start C:\Users\hassa\NTNU.Data\3aar\1.sem\cpp\ovinger\oving2\cmake-build-debug\CMakeFiles 2
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\Makefile2 CMakeFiles/ovi.dir/all
+	$(CMAKE_COMMAND) -E cmake_progress_start C:\Users\hassa\NTNU.Data\3aar\1.sem\cpp\ovinger\oving2\cmake-build-debug\CMakeFiles 0
+.PHONY : CMakeFiles/ovi.dir/rule
+
+# Convenience name for target.
+ovi: CMakeFiles/ovi.dir/rule
+.PHONY : ovi
+
+# clean rule for target.
+CMakeFiles/ovi.dir/clean:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\ovi.dir\build.make CMakeFiles/ovi.dir/clean
+.PHONY : CMakeFiles/ovi.dir/clean
+
+#=============================================================================
+# Target rules for target CMakeFiles/ov.dir
+
+# All Build rule for target.
+CMakeFiles/ov.dir/all:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\ov.dir\build.make CMakeFiles/ov.dir/depend
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\ov.dir\build.make CMakeFiles/ov.dir/build
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=C:\Users\hassa\NTNU.Data\3aar\1.sem\cpp\ovinger\oving2\cmake-build-debug\CMakeFiles --progress-num=1,2 "Built target ov"
+.PHONY : CMakeFiles/ov.dir/all
+
+# Build rule for subdir invocation for target.
+CMakeFiles/ov.dir/rule: cmake_check_build_system
+	$(CMAKE_COMMAND) -E cmake_progress_start C:\Users\hassa\NTNU.Data\3aar\1.sem\cpp\ovinger\oving2\cmake-build-debug\CMakeFiles 2
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\Makefile2 CMakeFiles/ov.dir/all
+	$(CMAKE_COMMAND) -E cmake_progress_start C:\Users\hassa\NTNU.Data\3aar\1.sem\cpp\ovinger\oving2\cmake-build-debug\CMakeFiles 0
+.PHONY : CMakeFiles/ov.dir/rule
+
+# Convenience name for target.
+ov: CMakeFiles/ov.dir/rule
+.PHONY : ov
+
+# clean rule for target.
+CMakeFiles/ov.dir/clean:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\ov.dir\build.make CMakeFiles/ov.dir/clean
+.PHONY : CMakeFiles/ov.dir/clean
 
 #=============================================================================
 # Special targets to cleanup operation of make.

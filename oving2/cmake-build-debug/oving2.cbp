@@ -59,6 +59,132 @@
 					<DistClean command="C:/x86_64-8.1.0-release-win32-sjlj-rt_v6-rev0/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/hassa/NTNU.Data/3aar/1.sem/cpp/ovinger/oving2/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
 				</MakeCommands>
 			</Target>
+			<Target title="ovin">
+				<Option output="C:/Users/hassa/NTNU.Data/3aar/1.sem/cpp/ovinger/oving2/cmake-build-debug/ovin.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="C:/Users/hassa/NTNU.Data/3aar/1.sem/cpp/ovinger/oving2/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="C:/x86_64-8.1.0-release-win32-sjlj-rt_v6-rev0/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++"/>
+					<Add directory="C:/x86_64-8.1.0-release-win32-sjlj-rt_v6-rev0/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++/x86_64-w64-mingw32"/>
+					<Add directory="C:/x86_64-8.1.0-release-win32-sjlj-rt_v6-rev0/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++/backward"/>
+					<Add directory="C:/x86_64-8.1.0-release-win32-sjlj-rt_v6-rev0/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include"/>
+					<Add directory="C:/x86_64-8.1.0-release-win32-sjlj-rt_v6-rev0/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include-fixed"/>
+					<Add directory="C:/x86_64-8.1.0-release-win32-sjlj-rt_v6-rev0/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/../../../../x86_64-w64-mingw32/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="C:/x86_64-8.1.0-release-win32-sjlj-rt_v6-rev0/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/hassa/NTNU.Data/3aar/1.sem/cpp/ovinger/oving2/cmake-build-debug/Makefile&quot;  VERBOSE=1 ovin"/>
+					<CompileFile command="C:/x86_64-8.1.0-release-win32-sjlj-rt_v6-rev0/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/hassa/NTNU.Data/3aar/1.sem/cpp/ovinger/oving2/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/x86_64-8.1.0-release-win32-sjlj-rt_v6-rev0/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/hassa/NTNU.Data/3aar/1.sem/cpp/ovinger/oving2/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/x86_64-8.1.0-release-win32-sjlj-rt_v6-rev0/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/hassa/NTNU.Data/3aar/1.sem/cpp/ovinger/oving2/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="ovin/fast">
+				<Option output="C:/Users/hassa/NTNU.Data/3aar/1.sem/cpp/ovinger/oving2/cmake-build-debug/ovin.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="C:/Users/hassa/NTNU.Data/3aar/1.sem/cpp/ovinger/oving2/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="C:/x86_64-8.1.0-release-win32-sjlj-rt_v6-rev0/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++"/>
+					<Add directory="C:/x86_64-8.1.0-release-win32-sjlj-rt_v6-rev0/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++/x86_64-w64-mingw32"/>
+					<Add directory="C:/x86_64-8.1.0-release-win32-sjlj-rt_v6-rev0/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++/backward"/>
+					<Add directory="C:/x86_64-8.1.0-release-win32-sjlj-rt_v6-rev0/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include"/>
+					<Add directory="C:/x86_64-8.1.0-release-win32-sjlj-rt_v6-rev0/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include-fixed"/>
+					<Add directory="C:/x86_64-8.1.0-release-win32-sjlj-rt_v6-rev0/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/../../../../x86_64-w64-mingw32/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="C:/x86_64-8.1.0-release-win32-sjlj-rt_v6-rev0/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/hassa/NTNU.Data/3aar/1.sem/cpp/ovinger/oving2/cmake-build-debug/Makefile&quot;  VERBOSE=1 ovin/fast"/>
+					<CompileFile command="C:/x86_64-8.1.0-release-win32-sjlj-rt_v6-rev0/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/hassa/NTNU.Data/3aar/1.sem/cpp/ovinger/oving2/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/x86_64-8.1.0-release-win32-sjlj-rt_v6-rev0/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/hassa/NTNU.Data/3aar/1.sem/cpp/ovinger/oving2/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/x86_64-8.1.0-release-win32-sjlj-rt_v6-rev0/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/hassa/NTNU.Data/3aar/1.sem/cpp/ovinger/oving2/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="ovi">
+				<Option output="C:/Users/hassa/NTNU.Data/3aar/1.sem/cpp/ovinger/oving2/cmake-build-debug/ovi.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="C:/Users/hassa/NTNU.Data/3aar/1.sem/cpp/ovinger/oving2/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="C:/x86_64-8.1.0-release-win32-sjlj-rt_v6-rev0/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++"/>
+					<Add directory="C:/x86_64-8.1.0-release-win32-sjlj-rt_v6-rev0/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++/x86_64-w64-mingw32"/>
+					<Add directory="C:/x86_64-8.1.0-release-win32-sjlj-rt_v6-rev0/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++/backward"/>
+					<Add directory="C:/x86_64-8.1.0-release-win32-sjlj-rt_v6-rev0/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include"/>
+					<Add directory="C:/x86_64-8.1.0-release-win32-sjlj-rt_v6-rev0/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include-fixed"/>
+					<Add directory="C:/x86_64-8.1.0-release-win32-sjlj-rt_v6-rev0/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/../../../../x86_64-w64-mingw32/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="C:/x86_64-8.1.0-release-win32-sjlj-rt_v6-rev0/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/hassa/NTNU.Data/3aar/1.sem/cpp/ovinger/oving2/cmake-build-debug/Makefile&quot;  VERBOSE=1 ovi"/>
+					<CompileFile command="C:/x86_64-8.1.0-release-win32-sjlj-rt_v6-rev0/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/hassa/NTNU.Data/3aar/1.sem/cpp/ovinger/oving2/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/x86_64-8.1.0-release-win32-sjlj-rt_v6-rev0/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/hassa/NTNU.Data/3aar/1.sem/cpp/ovinger/oving2/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/x86_64-8.1.0-release-win32-sjlj-rt_v6-rev0/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/hassa/NTNU.Data/3aar/1.sem/cpp/ovinger/oving2/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="ovi/fast">
+				<Option output="C:/Users/hassa/NTNU.Data/3aar/1.sem/cpp/ovinger/oving2/cmake-build-debug/ovi.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="C:/Users/hassa/NTNU.Data/3aar/1.sem/cpp/ovinger/oving2/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="C:/x86_64-8.1.0-release-win32-sjlj-rt_v6-rev0/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++"/>
+					<Add directory="C:/x86_64-8.1.0-release-win32-sjlj-rt_v6-rev0/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++/x86_64-w64-mingw32"/>
+					<Add directory="C:/x86_64-8.1.0-release-win32-sjlj-rt_v6-rev0/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++/backward"/>
+					<Add directory="C:/x86_64-8.1.0-release-win32-sjlj-rt_v6-rev0/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include"/>
+					<Add directory="C:/x86_64-8.1.0-release-win32-sjlj-rt_v6-rev0/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include-fixed"/>
+					<Add directory="C:/x86_64-8.1.0-release-win32-sjlj-rt_v6-rev0/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/../../../../x86_64-w64-mingw32/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="C:/x86_64-8.1.0-release-win32-sjlj-rt_v6-rev0/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/hassa/NTNU.Data/3aar/1.sem/cpp/ovinger/oving2/cmake-build-debug/Makefile&quot;  VERBOSE=1 ovi/fast"/>
+					<CompileFile command="C:/x86_64-8.1.0-release-win32-sjlj-rt_v6-rev0/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/hassa/NTNU.Data/3aar/1.sem/cpp/ovinger/oving2/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/x86_64-8.1.0-release-win32-sjlj-rt_v6-rev0/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/hassa/NTNU.Data/3aar/1.sem/cpp/ovinger/oving2/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/x86_64-8.1.0-release-win32-sjlj-rt_v6-rev0/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/hassa/NTNU.Data/3aar/1.sem/cpp/ovinger/oving2/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="ov">
+				<Option output="C:/Users/hassa/NTNU.Data/3aar/1.sem/cpp/ovinger/oving2/cmake-build-debug/ov.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="C:/Users/hassa/NTNU.Data/3aar/1.sem/cpp/ovinger/oving2/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="C:/x86_64-8.1.0-release-win32-sjlj-rt_v6-rev0/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++"/>
+					<Add directory="C:/x86_64-8.1.0-release-win32-sjlj-rt_v6-rev0/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++/x86_64-w64-mingw32"/>
+					<Add directory="C:/x86_64-8.1.0-release-win32-sjlj-rt_v6-rev0/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++/backward"/>
+					<Add directory="C:/x86_64-8.1.0-release-win32-sjlj-rt_v6-rev0/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include"/>
+					<Add directory="C:/x86_64-8.1.0-release-win32-sjlj-rt_v6-rev0/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include-fixed"/>
+					<Add directory="C:/x86_64-8.1.0-release-win32-sjlj-rt_v6-rev0/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/../../../../x86_64-w64-mingw32/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="C:/x86_64-8.1.0-release-win32-sjlj-rt_v6-rev0/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/hassa/NTNU.Data/3aar/1.sem/cpp/ovinger/oving2/cmake-build-debug/Makefile&quot;  VERBOSE=1 ov"/>
+					<CompileFile command="C:/x86_64-8.1.0-release-win32-sjlj-rt_v6-rev0/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/hassa/NTNU.Data/3aar/1.sem/cpp/ovinger/oving2/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/x86_64-8.1.0-release-win32-sjlj-rt_v6-rev0/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/hassa/NTNU.Data/3aar/1.sem/cpp/ovinger/oving2/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/x86_64-8.1.0-release-win32-sjlj-rt_v6-rev0/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/hassa/NTNU.Data/3aar/1.sem/cpp/ovinger/oving2/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="ov/fast">
+				<Option output="C:/Users/hassa/NTNU.Data/3aar/1.sem/cpp/ovinger/oving2/cmake-build-debug/ov.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="C:/Users/hassa/NTNU.Data/3aar/1.sem/cpp/ovinger/oving2/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="C:/x86_64-8.1.0-release-win32-sjlj-rt_v6-rev0/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++"/>
+					<Add directory="C:/x86_64-8.1.0-release-win32-sjlj-rt_v6-rev0/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++/x86_64-w64-mingw32"/>
+					<Add directory="C:/x86_64-8.1.0-release-win32-sjlj-rt_v6-rev0/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++/backward"/>
+					<Add directory="C:/x86_64-8.1.0-release-win32-sjlj-rt_v6-rev0/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include"/>
+					<Add directory="C:/x86_64-8.1.0-release-win32-sjlj-rt_v6-rev0/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include-fixed"/>
+					<Add directory="C:/x86_64-8.1.0-release-win32-sjlj-rt_v6-rev0/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/../../../../x86_64-w64-mingw32/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="C:/x86_64-8.1.0-release-win32-sjlj-rt_v6-rev0/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/hassa/NTNU.Data/3aar/1.sem/cpp/ovinger/oving2/cmake-build-debug/Makefile&quot;  VERBOSE=1 ov/fast"/>
+					<CompileFile command="C:/x86_64-8.1.0-release-win32-sjlj-rt_v6-rev0/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/hassa/NTNU.Data/3aar/1.sem/cpp/ovinger/oving2/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/x86_64-8.1.0-release-win32-sjlj-rt_v6-rev0/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/hassa/NTNU.Data/3aar/1.sem/cpp/ovinger/oving2/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/x86_64-8.1.0-release-win32-sjlj-rt_v6-rev0/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/hassa/NTNU.Data/3aar/1.sem/cpp/ovinger/oving2/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
 			<Target title="edit_cache">
 				<Option working_dir="C:/Users/hassa/NTNU.Data/3aar/1.sem/cpp/ovinger/oving2/cmake-build-debug"/>
 				<Option type="4"/>
@@ -80,8 +206,17 @@
 				</MakeCommands>
 			</Target>
 		</Build>
-		<Unit filename="C:/Users/hassa/NTNU.Data/3aar/1.sem/cpp/ovinger/oving2/main.cpp">
+		<Unit filename="C:/Users/hassa/NTNU.Data/3aar/1.sem/cpp/ovinger/oving2/oppg1.cpp">
 			<Option target="oving2"/>
+		</Unit>
+		<Unit filename="C:/Users/hassa/NTNU.Data/3aar/1.sem/cpp/ovinger/oving2/oppg4.cpp">
+			<Option target="ovin"/>
+		</Unit>
+		<Unit filename="C:/Users/hassa/NTNU.Data/3aar/1.sem/cpp/ovinger/oving2/oppg5.cpp">
+			<Option target="ovi"/>
+		</Unit>
+		<Unit filename="C:/Users/hassa/NTNU.Data/3aar/1.sem/cpp/ovinger/oving2/oppg6.cpp">
+			<Option target="ov"/>
 		</Unit>
 		<Unit filename="C:/Users/hassa/NTNU.Data/3aar/1.sem/cpp/ovinger/oving2/CMakeLists.txt">
 			<Option virtualFolder="CMake Files\"/>

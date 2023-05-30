@@ -68,28 +68,28 @@ include CMakeFiles/oving2.dir/progress.make
 # Include the compile flags for this target's objects.
 include CMakeFiles/oving2.dir/flags.make
 
-CMakeFiles/oving2.dir/main.cpp.obj: CMakeFiles/oving2.dir/flags.make
-CMakeFiles/oving2.dir/main.cpp.obj: ../main.cpp
-CMakeFiles/oving2.dir/main.cpp.obj: CMakeFiles/oving2.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\hassa\NTNU.Data\3aar\1.sem\cpp\ovinger\oving2\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_1) "Building CXX object CMakeFiles/oving2.dir/main.cpp.obj"
-	C:\x86_64-8.1.0-release-win32-sjlj-rt_v6-rev0\mingw64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/oving2.dir/main.cpp.obj -MF CMakeFiles\oving2.dir\main.cpp.obj.d -o CMakeFiles\oving2.dir\main.cpp.obj -c C:\Users\hassa\NTNU.Data\3aar\1.sem\cpp\ovinger\oving2\main.cpp
+CMakeFiles/oving2.dir/oppg1.cpp.obj: CMakeFiles/oving2.dir/flags.make
+CMakeFiles/oving2.dir/oppg1.cpp.obj: ../oppg1.cpp
+CMakeFiles/oving2.dir/oppg1.cpp.obj: CMakeFiles/oving2.dir/compiler_depend.ts
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\hassa\NTNU.Data\3aar\1.sem\cpp\ovinger\oving2\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_1) "Building CXX object CMakeFiles/oving2.dir/oppg1.cpp.obj"
+	C:\x86_64-8.1.0-release-win32-sjlj-rt_v6-rev0\mingw64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/oving2.dir/oppg1.cpp.obj -MF CMakeFiles\oving2.dir\oppg1.cpp.obj.d -o CMakeFiles\oving2.dir\oppg1.cpp.obj -c C:\Users\hassa\NTNU.Data\3aar\1.sem\cpp\ovinger\oving2\oppg1.cpp
 
-CMakeFiles/oving2.dir/main.cpp.i: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/oving2.dir/main.cpp.i"
-	C:\x86_64-8.1.0-release-win32-sjlj-rt_v6-rev0\mingw64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E C:\Users\hassa\NTNU.Data\3aar\1.sem\cpp\ovinger\oving2\main.cpp > CMakeFiles\oving2.dir\main.cpp.i
+CMakeFiles/oving2.dir/oppg1.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/oving2.dir/oppg1.cpp.i"
+	C:\x86_64-8.1.0-release-win32-sjlj-rt_v6-rev0\mingw64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E C:\Users\hassa\NTNU.Data\3aar\1.sem\cpp\ovinger\oving2\oppg1.cpp > CMakeFiles\oving2.dir\oppg1.cpp.i
 
-CMakeFiles/oving2.dir/main.cpp.s: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/oving2.dir/main.cpp.s"
-	C:\x86_64-8.1.0-release-win32-sjlj-rt_v6-rev0\mingw64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S C:\Users\hassa\NTNU.Data\3aar\1.sem\cpp\ovinger\oving2\main.cpp -o CMakeFiles\oving2.dir\main.cpp.s
+CMakeFiles/oving2.dir/oppg1.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/oving2.dir/oppg1.cpp.s"
+	C:\x86_64-8.1.0-release-win32-sjlj-rt_v6-rev0\mingw64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S C:\Users\hassa\NTNU.Data\3aar\1.sem\cpp\ovinger\oving2\oppg1.cpp -o CMakeFiles\oving2.dir\oppg1.cpp.s
 
 # Object files for target oving2
 oving2_OBJECTS = \
-"CMakeFiles/oving2.dir/main.cpp.obj"
+"CMakeFiles/oving2.dir/oppg1.cpp.obj"
 
 # External object files for target oving2
 oving2_EXTERNAL_OBJECTS =
 
-oving2.exe: CMakeFiles/oving2.dir/main.cpp.obj
+oving2.exe: CMakeFiles/oving2.dir/oppg1.cpp.obj
 oving2.exe: CMakeFiles/oving2.dir/build.make
 oving2.exe: CMakeFiles/oving2.dir/linklibs.rsp
 oving2.exe: CMakeFiles/oving2.dir/objects1.rsp

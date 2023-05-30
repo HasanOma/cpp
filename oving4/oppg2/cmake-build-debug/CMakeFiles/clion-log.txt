@@ -1,0 +1,16 @@
+C:\Users\hassa\AppData\Local\JetBrains\Toolbox\apps\CLion\ch-0\222.3739.54\bin\cmake\win\bin\cmake.exe -DCMAKE_BUILD_TYPE=Debug -DCMAKE_MAKE_PROGRAM=C:/x86_64-8.1.0-release-win32-sjlj-rt_v6-rev0/mingw64/bin/mingw32-make.exe -DCMAKE_C_COMPILER=C:/x86_64-8.1.0-release-win32-sjlj-rt_v6-rev0/mingw64/bin/gcc.exe -DCMAKE_CXX_COMPILER=C:/x86_64-8.1.0-release-win32-sjlj-rt_v6-rev0/mingw64/bin/g++.exe -G "CodeBlocks - MinGW Makefiles" -S C:\Users\hassa\NTNU.Data\3aar\1.sem\cpp\ovinger\oving4\oppg2 -B C:\Users\hassa\NTNU.Data\3aar\1.sem\cpp\ovinger\oving4\oppg2\cmake-build-debug
+-- Could NOT find PkgConfig (missing: PKG_CONFIG_EXECUTABLE) 
+CMake Error at C:/Users/hassa/AppData/Local/JetBrains/Toolbox/apps/CLion/ch-0/222.3739.54/bin/cmake/win/share/cmake-3.23/Modules/FindPkgConfig.cmake:661 (message):
+  pkg-config tool not found
+Call Stack (most recent call first):
+  C:/Users/hassa/AppData/Local/JetBrains/Toolbox/apps/CLion/ch-0/222.3739.54/bin/cmake/win/share/cmake-3.23/Modules/FindPkgConfig.cmake:827 (_pkg_check_modules_internal)
+  CMakeLists.txt:12 (pkg_check_modules)
+
+
+CMake Error at CMakeLists.txt:17 (target_link_libraries):
+  Cannot specify link libraries for target "gtkmm_example" which is not built
+  by this project.
+
+
+-- Configuring incomplete, errors occurred!
+See also "C:/Users/hassa/NTNU.Data/3aar/1.sem/cpp/ovinger/oving4/oppg2/cmake-build-debug/CMakeFiles/CMakeOutput.log".

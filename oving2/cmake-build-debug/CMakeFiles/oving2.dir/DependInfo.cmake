@@ -8,7 +8,7 @@ set(CMAKE_DEPENDS_LANGUAGES
 
 # The set of dependency files which are needed:
 set(CMAKE_DEPENDS_DEPENDENCY_FILES
-  "C:/Users/hassa/NTNU.Data/3aar/1.sem/cpp/ovinger/oving2/main.cpp" "CMakeFiles/oving2.dir/main.cpp.obj" "gcc" "CMakeFiles/oving2.dir/main.cpp.obj.d"
+  "C:/Users/hassa/NTNU.Data/3aar/1.sem/cpp/ovinger/oving2/oppg1.cpp" "CMakeFiles/oving2.dir/oppg1.cpp.obj" "gcc" "CMakeFiles/oving2.dir/oppg1.cpp.obj.d"
   )
 
 # Targets to which this target links.

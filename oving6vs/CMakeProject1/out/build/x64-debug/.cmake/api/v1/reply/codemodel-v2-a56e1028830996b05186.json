@@ -1,0 +1,85 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"childIndexes" : 
+					[
+						1
+					],
+					"jsonFile" : "directory-.-Debug-d0094a50bb2071803777.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.8"
+					},
+					"projectIndex" : 0,
+					"source" : "."
+				},
+				{
+					"build" : "CMakeProject1",
+					"jsonFile" : "directory-CMakeProject1-Debug-dd1b6813d562020f6eb1.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.8"
+					},
+					"parentIndex" : 0,
+					"projectIndex" : 0,
+					"source" : "CMakeProject1",
+					"targetIndexes" : 
+					[
+						0,
+						1
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0,
+						1
+					],
+					"name" : "CMakeProject1",
+					"targetIndexes" : 
+					[
+						0,
+						1
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 1,
+					"id" : "CMakeProject1::@327dbd380d3205a35d1a",
+					"jsonFile" : "target-CMakeProject1-Debug-aa3d1bcde3552f73c3be.json",
+					"name" : "CMakeProject1",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 1,
+					"id" : "oving6::@327dbd380d3205a35d1a",
+					"jsonFile" : "target-oving6-Debug-29b6d3d55b2f5cd0430f.json",
+					"name" : "oving6",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "C:/Users/hassa/NTNU.Data/3aar/1.sem/cpp/ovinger/oving6vs/CMakeProject1/out/build/x64-debug",
+		"source" : "C:/Users/hassa/NTNU.Data/3aar/1.sem/cpp/ovinger/oving6vs/CMakeProject1"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 4
+	}
+}
